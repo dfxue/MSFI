@@ -15,7 +15,7 @@ For other communications related to this git, please contact `wenjuan.li@ia.ac.c
 If you find this work useful in your research, please consider citing:
 
 ```bibtex
-@article{xue5128690msfi,
+@article{xue2026msfi,
   title={Msfi: Multi-Timescale Spatio-Temporal Features Integration in Spiking Neural Networks},
   author={Xue, Dengfeng and Li, Wenjuan and Yuan, Chunfeng and Liu, Haowei and Yao, Man and Liu, Wei and Yang, Li and Li, Bing and Hu, Weiming and Sun, Haoliang and others},
   journal={Neural Networks}, 
