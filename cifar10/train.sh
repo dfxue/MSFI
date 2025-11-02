@@ -1,0 +1,1 @@
+python train_cf10.py -data-dir /mnt/data/dfxue/datasets/cifar10 -amp -opt sgd -channels 256 -epochs 1024 -device cuda:6 -T 4 
