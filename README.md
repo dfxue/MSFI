@@ -6,11 +6,13 @@ Dengfeng Xue*, Wenjuan Li*, Chunfeng Yuan, Haowei Liu, Man Yao, Wei Liu, Li Yang
 The code is modified by https://github.com/fangwei123456/Parallel-Spiking-Neuron.
 
 
-# Contact Information
+# Contact
 
 For help or issues using this git, please submit a GitHub issue.
 
 For other communications related to this git, please contact `wenjuan.li@ia.ac.cn`.
+
+# Citation
 
 If you find this work useful in your research, please consider citing:
 
