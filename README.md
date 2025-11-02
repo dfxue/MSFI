@@ -1,9 +1,16 @@
-This repository provides the official implementation of our paper "MSFI: Multi-timescale Spatio-temporal Features Integration in Spiking Neural Networks", accepted by Neural Networks.
+# MSFI: Multi-timescale Spatio-temporal Features Integration in Spiking Neural Networks (Neural Networks)
+Dengfeng Xue*, Wenjuan Li*, Chunfeng Yuan, Haowei Liu, Man Yao, Wei Liu, Li Yang, Bing Li, Weiming Hu, Haoliang Sun, Zhetao Li
+
+*Equal contribution.
 
 The code is modified by https://github.com/fangwei123456/Parallel-Spiking-Neuron.
 
 
 # Contact Information
+
+For help or issues using this git, please submit a GitHub issue.
+
+For other communications related to this git, please contact `wenjuan.li@ia.ac.cn`.
 
 If you find this work useful in your research, please consider citing:
 
@@ -16,7 +23,6 @@ If you find this work useful in your research, please consider citing:
   pages={108024}, 
   year={2026}
 }
+```
 
-For help or issues using this git, please submit a GitHub issue.
 
-For other communications related to this git, please contact wenjuan.li@ia.ac.cn 
